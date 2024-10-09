@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osuCarl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently studying Master of Computing @ANU
 
 <!---
 osuCarl/osuCarl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
