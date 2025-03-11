@@ -2,8 +2,6 @@
 - 👀 I’m currently interested in Game Development, Machine Learning.
 - 🌱 I’m currently studying Master of Computing @ANU.
 
-- Scopus: https://www.scopus.com/authid/detail.uri?authorId=57219387734
-
 <!---
 osuCarl/osuCarl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
